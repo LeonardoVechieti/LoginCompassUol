@@ -1,5 +1,5 @@
 //Textos mocados para teste
-const content = {
+const strings = {
     title: 'Login',
     subtitle: 'Welcome to LoginApp',
     email: 'Email',
@@ -25,9 +25,12 @@ const content = {
     successRegister: 'Register success',
     successForgot: 'Email sent',
     successLogout: 'Logout success',
-    titleSite: "A cada desafio, uma nova solução",
-    contentSite: "Ajudamos nossos clientes a elevar seu potencial com soluções de tecnologia pensadas sob medida. Nossos times de especialistas constroem de forma estratégica as melhores experiências digitais para o que o mercado demanda e os negócios precisam.",
-    contenSite2: "Contamos com 6.000 profissionais de diferentes vivências que compartilham suas paixões e habilidades para alcançar resultados de excelência ao lado de nossos clientes, construindo juntos histórias incríveis."
+    titleSite: "To every challenge, a new solution.", 
+    contentSite: "We help our customers reach their full potential with tailor-made technology solutions. Our teams of experts strategically build the best digital experiences for what the market demands and businesses need.",
+    contenSite2: "We are 6,000 professionals from different backgrounds sharing our passions and skills to achieve excellent results for our clients, building incredible stories together.",
+    buttonHome: "Get to know us",
 };
 
-export default content;
+
+
+export default strings;
